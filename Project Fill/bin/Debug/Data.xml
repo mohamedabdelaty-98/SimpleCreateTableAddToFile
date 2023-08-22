@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tables>
+  <Table Name="Student">
+    <Row>
+      <ID>1</ID>
+      <Name>mohamed</Name>
+    </Row>
+    <Row>
+      <ID>2</ID>
+      <Name>ahmed</Name>
+    </Row>
+  </Table>
+  <Table Name2="Teacher">
+    <Row>
+      <ID>1</ID>
+      <phone>223223</phone>
+    </Row>
+    <Row>
+      <ID>2</ID>
+      <phone>33232</phone>
+    </Row>
+  </Table>
+  <Table Name2="Emplyee">
+    <Row>
+      <ID>1</ID>
+      <Name>mahmoud</Name>
+    </Row>
+    <Row>
+      <ID>2</ID>
+      <Name>Ashraf</Name>
+    </Row>
+  </Table>
+  <Table Name2="sales car">
+    <Row>
+      <ID>1</ID>
+      <Name>mohamed</Name>
+    </Row>
+  </Table>
+  <Table Name2="student">
+    <Row>
+      <Name>mohamed</Name>
+      <L_Name>abdelaty</L_Name>
+      <Age>25</Age>
+    </Row>
+  </Table>
+</Tables>
